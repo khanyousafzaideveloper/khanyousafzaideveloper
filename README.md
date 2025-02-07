@@ -32,7 +32,7 @@
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
     </a>
     <a href="https://admob.google.com/home/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/admob/admob.svg" alt="Firebase" width="40" height="40" />
+       <img width="48" height="48" src="https://img.icons8.com/color/48/google-admob.png" alt="google-admob"width="40" height="40" />
 
 </a>
     <a href="https://www.java.com/" target="_blank" rel="noreferrer">
