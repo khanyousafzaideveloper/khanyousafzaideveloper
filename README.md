@@ -3,22 +3,7 @@
 
 
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=khanyousafzaideveloper&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=khanyousafzaideveloper" alt="GitHub Profile Trophies" />
-    </a>
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://www.linkedin.com/in/ahmad-yousafzai-1a57a3227/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-    </a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
