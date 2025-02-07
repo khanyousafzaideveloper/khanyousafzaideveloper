@@ -4,12 +4,12 @@
 
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=saadkhankhalil&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=khanyousafzaideveloper&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=saadkhankhalil" alt="GitHub Profile Trophies" />
+        <img src="https://github-profile-trophy.vercel.app/?username=khanyousafzaideveloper" alt="GitHub Profile Trophies" />
     </a>
 </p>
 
@@ -73,13 +73,13 @@
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadkhankhalil&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khanyousafzaideveloper&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=saadkhankhalil&show_icons=true&locale=en" alt="GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=khanyousafzaideveloper&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saadkhankhalil" alt="GitHub Streak" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanyousafzaideveloper" alt="GitHub Streak" />
 </p>
