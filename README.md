@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Khan Yousafzai</h1>
-<h3 align="center">A passionate Mobile Software Developer</h3>
+<h3 align="center">Mobile Software Developer</h3>
 
 
 
