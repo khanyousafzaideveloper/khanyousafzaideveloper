@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ahmad Khan Yousafzai</h1>
+<h1 align="center">Hi 👋, I'm Khan Yousafzai</h1>
 <h3 align="center">Mobile Software Developer</h3>
 
-
-
-
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -11,19 +9,17 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40" />
     </a>
     <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" alt="Kotlin" width="40" height="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" width="40" height="40" />
     </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
     </a>
     <a href="https://admob.google.com/home/" target="_blank" rel="noreferrer">
-       <img width="48" height="48" src="https://img.icons8.com/color/48/google-admob.png" alt="google-admob"width="40" height="40" />
-
-</a>
-    <a href="https://admob.google.com/home/" target="_blank" rel="noreferrer">
-    <img  width="48" height="48"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
-     </a>
-     
+        <img src="https://img.icons8.com/color/48/google-admob.png" alt="AdMob" width="40" height="40" />
+    </a>
+    <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40" />
+    </a>
     <a href="https://www.java.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
     </a>
@@ -50,12 +46,13 @@
     </a>
 </p>
 
+---
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khanyousafzaideveloper&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-
+<br/><br/><br/><br/>
 
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanyousafzaideveloper" alt="GitHub Streak" />
