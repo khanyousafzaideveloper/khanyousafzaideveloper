@@ -20,6 +20,9 @@
        <img width="48" height="48" src="https://img.icons8.com/color/48/google-admob.png" alt="google-admob"width="40" height="40" />
 
 </a>
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+          
     <a href="https://www.java.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
     </a>
