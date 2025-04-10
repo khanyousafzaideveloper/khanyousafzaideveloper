@@ -55,5 +55,5 @@
 <br/><br/><br/><br/>
 
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanyousafzaideveloper" alt="GitHub Streak" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=khanyousafzaideveloper" alt="GitHub Streak" />
 </p>
