@@ -12,7 +12,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" width="40" height="40" />
     </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
+        <img src="[https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" width="40" height="40" />
     </a>
     <a href="https://admob.google.com/home/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/48/google-admob.png" alt="AdMob" width="40" height="40" />
