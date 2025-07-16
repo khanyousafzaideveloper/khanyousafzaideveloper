@@ -75,7 +75,7 @@
   <img src="https://github.com/khanyousafzaideveloper/ProjectScreenShots/blob/main/languageTranslator/1.png?raw=true" width="200" />
   <img src="https://github.com/khanyousafzaideveloper/ProjectScreenShots/blob/main/languageTranslator/2.png?raw=true" width="200" />
   <img src="https://github.com/khanyousafzaideveloper/ProjectScreenShots/blob/main/languageTranslator/3.png?raw=true" width="200" />
-  <img src="https://github.com/khanyousafzaideveloper/ProjectScreenShots/blob/main/languageTranslator/3.png?raw=true" width="200" />
+  <img src="https://github.com/khanyousafzaideveloper/ProjectScreenShots/blob/main/languageTranslator/7.png?raw=true" width="200" />
 </p>
 
 <br/>
