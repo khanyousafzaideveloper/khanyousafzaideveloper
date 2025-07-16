@@ -49,11 +49,68 @@
 ---
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khanyousafzaideveloper&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khanyousafzaideveloper&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="float: left;" />
 </p>
 
 
 
 <p>
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=khanyousafzaideveloper" alt="GitHub Streak" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=khanyousafzaideveloper" alt="GitHub Streak"  style="float: right;" />
 </p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+
+<div style="clear: both;"></div>
+
+---
+
+<h3 align="left">🚀 Projects</h3>
+
+<!-- Project 1 -->
+<h4>Language Translator</h4>
+<p>Language Translator is designed to make language translation easy and versatile. Its main feature is seamless translation between languages, but it offers much more. The app includes: Text Translation, Speech-to-TextTranslation,  Voice Chat Translation,  Image-to-Text Translation,  Document Translation</p>
+
+<p align="center">
+  <img src="https://github.com/khanyousafzaideveloper/ProjectScreenShots/blob/main/languageTranslator/1.png?raw=true" width="200" />
+  <img src="https://github.com/khanyousafzaideveloper/ProjectScreenShots/blob/main/languageTranslator/2.png?raw=true" width="200" />
+  <img src="https://github.com/khanyousafzaideveloper/ProjectScreenShots/blob/main/languageTranslator/3.png?raw=true" width="200" />
+  <img src="https://github.com/khanyousafzaideveloper/ProjectScreenShots/blob/main/languageTranslator/3.png?raw=true" width="200" />
+</p>
+
+<br/>
+
+<!-- Project 2 -->
+<h4>Step Tracker</h4>
+<p>A Step Counter App using Kotlin and JetpackCompose, is designed to help users track their daily activity. Here is what the app offers 1)Records daily step counts using a Room database for efficient data storage. 2)Calculates distance covered, time taken, and calories burned to provide comprehensive insights. 3) Displays detailed activity records for each day, making it easy to review progress.4) Uses animations for delightful UI.</p>
+
+<p align="center">
+  <img src="https://github.com/khanyousafzaideveloper/ProjectScreenShots/blob/main/StepTracker/home%5D.jpeg?raw=true" width="200" />
+  <img src="https://github.com/khanyousafzaideveloper/ProjectScreenShots/blob/main/StepTracker/1.png?raw=true" width="200" />
+  <img src="https://github.com/khanyousafzaideveloper/ProjectScreenShots/blob/main/StepTracker/2.png?raw=true" width="200" />
+  <img src="https://github.com/khanyousafzaideveloper/ProjectScreenShots/blob/main/StepTracker/5.png?raw=true" width="200" />
+</p>
+
+<br/>
+
+<!-- Project 3 -->
+<h4>FoodNest</h4>
+<p>I developed Food Delivery App using Supabase, it has the following features: 1) Add food items to the cart 2)Mark items as favorites 3)Check out the orders. It’s still a work in progress — I have a lot of exciting features planned ahead, and I’m continuously improving it..</p>
+
+<p align="center">
+  <img src="https://github.com/khanyousafzaideveloper/ProjectScreenShots/blob/main/Restaurant/home.jpeg?raw=true" width="200" />
+  <img src="https://github.com/khanyousafzaideveloper/ProjectScreenShots/blob/main/Restaurant/deatil.jpeg?raw=true" width="200" />
+  <img src="https://github.com/khanyousafzaideveloper/ProjectScreenShots/blob/main/Restaurant/ordered.jpeg?raw=true" width="200" />
+  <img src="https://github.com/khanyousafzaideveloper/ProjectScreenShots/blob/main/Restaurant/orders.jpeg?raw=true" width="200" />
+</p>
+
+
+
+
