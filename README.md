@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmad Khan Yousafzai</h1>
+<h1 align="center">Hi 👋, I'm Ahmad Abid</h1>
 <h3 align="center">Mobile Software Developer</h3>
 
 ---
@@ -73,7 +73,7 @@
 
 ---
 
-<h3 align="left">🚀 Projects</h3>
+<h3 align="left">Projects</h3>
 
 <!-- Project 1 -->
 <h4>Language Translator</h4>
