@@ -9,9 +9,9 @@
   I enjoy creating high-performance apps with clean architecture, smooth UI/UX, and real-world functionality.
 </p>
 
----
+<!--  ---
 
-<!-- <h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40" /></a>
 <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" width="40" height="40" /></a>
