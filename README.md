@@ -1,4 +1,4 @@
-<h1 align="center">Salam 👋, I'm Ahmad Abid</h1>
+<h1 align="center">Salam, I'm Ahmad Abid</h1>
 
 <h3 align="center">
   Kotlin & Android Developer | Jetpack Compose | Mobile App Developer
