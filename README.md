@@ -38,9 +38,9 @@
 
 ---
 
-<h3 align="left">🚀 Projects</h3>
+<h3 align="left">Projects</h3>
 
-<h4>🌍 Language Translator</h4>
+<h4>Language Translator</h4>
 <p>
 Language Translator is designed to make communication easy and versatile.  
 Features include Text Translation, Speech-to-Text Translation, Voice Chat Translation, Image-to-Text Translation, and Document Translation.
@@ -55,7 +55,7 @@ Features include Text Translation, Speech-to-Text Translation, Voice Chat Transl
 
 <br/>
 
-<h4>👟 Step Tracker</h4>
+<h4>Step Tracker</h4>
 <p>
 A Step Counter App built with Kotlin and Jetpack Compose.  
 It records daily steps using Room Database, calculates distance/calories, and provides detailed activity history.
@@ -70,7 +70,7 @@ It records daily steps using Room Database, calculates distance/calories, and pr
 
 <br/>
 
-<h4>🍔 FoodNest</h4>
+<h4>FoodNest</h4>
 <p>
 A Food Delivery App developed using Supabase.  
 Features include adding items to cart, marking favorites, and seamless order checkout.
