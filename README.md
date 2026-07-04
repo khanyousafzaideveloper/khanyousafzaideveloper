@@ -26,9 +26,9 @@
 <div align="center">
   <table style="border-collapse: separate; border-spacing: 30px 10px;">
     <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khanyousafzaideveloper&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-      </td>
+    <!--  <td align="center">
+         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khanyousafzaideveloper&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+      </td> -->
       <td align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=khanyousafzaideveloper" alt="GitHub Streak" />
       </td>
